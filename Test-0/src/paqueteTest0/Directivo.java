@@ -3,7 +3,7 @@ package paqueteTest0;
 /**
  * <h2>Clase Directivo</h2>
  * <p>Se pueden crear y leer datos de los directivos de la empresa.</p>
- * @author NombreApellido
+ * @author Nombre y Apellido del autor
  */
 public class Directivo {
 
