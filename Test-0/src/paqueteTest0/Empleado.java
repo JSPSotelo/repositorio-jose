@@ -2,11 +2,10 @@ package paqueteTest0;
 
 /**
 * <h2>Clase EMPLEADO</h2>
-* <p>Se usa para crear y leer empleados de una Base de Datos <br/>
-* Buscar más información en <a href="http://www.eclipse.org">ECLIPSE</a></p>
-* @version v.3-2022
-* @author FPN
-* @since 1-2021
+* <p>Se usa para crear y leer empleados de una Base de Datos</p>
+* @version v.3-2020
+* @author Nombre
+* @since 2020
 */
 public class Empleado {
 
