@@ -3,9 +3,9 @@ package paqueteTest0;
 /**
  * <h2>Clase Directivo</h2>
  * <p>Se pueden crear y leer datos de los directivos de la empresa.</p>
- * @author Nombre y Apellido del autor
- * @version v.1-2023
- * @since 26-04-2023
+ * @author Nombre y Apellido
+ * @version v.1 - 2023
+ * @since 26 de abril de 2023
  */
 public class Directivo {
 
