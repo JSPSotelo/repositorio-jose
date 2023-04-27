@@ -24,7 +24,7 @@ private String apellido;
  */
 private double sueldo;
 
-private double retenciones.
+private double retenciones;
 
 /**
  * Es el Constructor con 3 parámetros.
