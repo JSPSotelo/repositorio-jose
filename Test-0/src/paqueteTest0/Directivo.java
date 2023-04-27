@@ -24,6 +24,8 @@ private String apellido;
  */
 private double sueldo;
 
+private double retenciones.
+
 /**
  * Es el Constructor con 3 parámetros.
  * Crea objetos directivo, con nombre, apellido y sueldo.
